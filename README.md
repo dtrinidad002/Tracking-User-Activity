@@ -14,3 +14,4 @@ to be to be queried.  You will need to:
 - Use Spark to transform the messages. 
 - Use Spark to transform the messages so that you can land them in HDFS
 
+## See jupyter notebook file (Report.ipynb)for full details
